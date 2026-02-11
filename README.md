@@ -1,4 +1,4 @@
-![Header](https://img.shields.io/badge/iogrbr-We-work-together-00BFFF?style=for-the-badge&labelColor=0077B5)
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iograbber)
 ![divider](https://img.shields.io/badge/---00BFFF?style=for-the-badge&text=+) ![iogrbr](https://img.shields.io/badge/iogrbr-00BFFF?style=for-the-badge&logo=github&logoColor=white)
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=iogrbr&show_icons=true&theme=tokyonight)
